@@ -22,4 +22,5 @@ class AppTheme {
  static const Color lableColor90 = Color(0xE6252525);
  static const Color borderLightGrey = Color(0xffF5F5F5);
  static const Color appColor = Color(0xfff7faff);
+  static const Color white = Color(0xFFFFFFFF);
 }
